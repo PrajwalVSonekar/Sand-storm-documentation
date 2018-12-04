@@ -1,7 +1,13 @@
 # Sand-storm-documentation
-<b>NEED STATEMENT</b>
+# NEED STATEMENT
 
 Sand art is becoming famous day by day. A robot manufacturing industry is looking forward to showcase their product in an upcoming sand art exhibition by exhibiting a  sand drawing robot.
+
+# ABSTRACT
+
+Drawing is an art that expresses the feeling int he form of visual  Sand art is one in such art in which the drawing isdone through sand . Sand art represents a certain forming beauty and has the ability to convey different stories .<br>
+To make sand art advanced a robot for sand art is build . It is a robot which can draw automatically It is stable , user friendly ,portable. The mechanish of this bot is the movement of wheels and the horizontal movement of the vessel provides a beautiful design . Thr electronics used here is Arduino mega on which the whole model works . Stepper motor is used for the horizontal movement of the vessels by the rotation of the puliies . Servo motor helps in the opening and closing of the valve .
+
 
 
 <b>PERTINENT INFORMATION</b>
@@ -76,7 +82,7 @@ Design mesmerizing sand drawings with your own magically magnetic zen garden
 <b>Questions</b> -----------------------------------------------------------------------<b>Answers</b><br>	
 1.What should be the  load  capacity on sand drawing robot?-----------------------Less than 300gm---------------Objective<br>
 2.Robot should be movable or drawing surface?-------------------------------------Movable-----------------------Constraint<br>
-3.How long should the robot be able to draw?--------------------------------------1-3 minutes-------------------Objective<br>
+3.How long should the robot be able to draw?--------------------------------------20-30 minutes-------------------Objective<br>
 4.What should be the thickness of line drawn by robot?----------------------------Adjustable--------------------Objective<br>
 5.What should be the cost of robot?-----------------------------------------------Less than 5000Rs--------------Objective<br>
 6.What should be the area that robot has to draw?-------------------------------- 5 sq feet-------------------- Constraint<br>
@@ -90,7 +96,7 @@ Design mesmerizing sand drawings with your own magically magnetic zen garden
 
 <b>Observation and from Lit.Survey</b>------------------------------------------ <b>Requirements</b><br>
  1. Based on the type of drawing--------------------------------------Robot should be able to draw any type of pattern<br>
-2.Duration of drawing-------------------------------------------------Robot should be able to draw 1-3 minutes continuously<br>
+2.Duration of drawing-------------------------------------------------Robot should be able to draw 20-30 minutes continuously<br>
 3.Estimated cost------------------------------------------------------The robot should be available within 5000Rs<br>
 4.Volume of pouring sand--------------------------------------------- Robot should be able to adjust the volume of pouring the sand<br>
 
@@ -100,17 +106,84 @@ Design mesmerizing sand drawings with your own magically magnetic zen garden
 Step 1: Prepare a list of design objectives
 	<b>Objectives</b>
 01-----The load capacity of robot should be less than 300gm<br>
-02-----The duration of drawing should be more than 1 minutes<br>
+02-----The duration of drawing should be more than 20-30 minutes<br>
 04-----The robot should be user friendly<br>
 05-----The cost should be less than 5000/-<br>
 06----- The volume of sand that has to be poured should be adjustable<br>
 07-----The robot should be stable<br>
 
 
-<u>Prioritize the identified designs chart</u>
+Prioritize the identified designs chart
+Sl no------------------------Affordable----------User friendly----------Duration of work----------Stable<br>	
+1-----Affordable-------------xxxx----------------0-----------------------0-------------------------0-----------------0<br>
+2-----User friendlu----------1-------------------xxxx--------------------1-------------------------0-----------------2<br>
+3-----Duration of work-------1-------------------0-----------------------xxxx----------------------0-----------------1<br>
+4-----Stable-----------------1-------------------1-----------------------1-------------------------xxxx--------------3<br>
 
-Sl no	                            	Affordable         	User friendly	         Duration of work          Stable	
-1	         Affordable	                xxxx	                   0	                      0                   	0	            0
-2	         User friendly	               1	                   xxxx	                    1	                   0            	2
-3         	Duration of work	            1                    	0                     	xxxx	                 0	            1
-4	         Stable		                     1                    	1                      	1                  	xxxx           	3
+
+Rank the objectives in order of decreasing value of importance and the list is  
+1. Stable<br>
+2.User friendly<br>
+3 Duration of work<br>
+4.Affordable<br>
+
+
+Based on the information gathered through interaction with client, initial survey and completing phase 1.1 the problem definition is formulated as follows
+
+Problem definition version1.1
+<i>?“The robot should be user friendly and stable while drawing and should be capable of drawing more than 20-30 minutes and its cost should be less than rs5000 ”</i>
+
+
+<b>Identify constraints</b><br>
+
+1.The robot should be able to draw 5 sq.feet<br>
+2.The robot should pour sand ground<br>
+3.The power supply should be through batteries<br>
+
+
+Problem definition version1.2
+<i>The robot should be able to draw on area of 5sq.feet, it should draw by pouring sand and it should work on battery.</i>
+
+
+ Establish functions
+1.The robot should be able draw any kind of patterns
+
+
+<b>PROBLEM DEFINITION version 1.3
+The Robot Should be Portable,User  friendly,easy to handle and available at affordable price.It should draw patterns on flat surfaces and draw on atleast 5sq.feet area.Bot should be able to hold atleast 300gm of sand and work for atleast 3 hours on rechargable battery.<br>
+	
+
+
+
+Use case diagram to represent the above system.
+
+------------------------------------------------------------------------------------<br>
+user----------------------|------1.Entering the pattern---|-------------------------Machine
+--------------------------|------2.Control----------------|-------------------------<br>	
+--------------------------|------3.Loading sand-----------|--------------------------<br>
+-------------------------------------------------------------------------------------<br>
+
+
+Functional Structure( System sub functions for each Usecase)<br>
+
+--------------------------------------------------------------------------------------------------<br>
+|Usecase 1--------------------------------|--------------------------- System---------------------|<br>
+|Entering  the pattern--------------------|---------------------1.Aceepting patterns -------------|<br>
+|-----------------------------------------|-------------------------------------------------------|<br>
+|Usecase 2 -------------------------------|--------------------------System-----------------------|<br>
+|Control----------------------------------|--------1.Movement of the wheels for X-axis movement---|<br>
+|-----------------------------------------|--------2.Movementof the vessel for y-Axis movement----|<br>
+|-----------------------------------------|--------3.Opening and closing of valve-----------------|<br>
+|-----------------------------------------|-------------------------------------------------------|<br>
+|Usecase 3 -------------------------------|----------------------System---------------------------|<br>
+|Loading sand-----------------------------|--------------1.Accepting the sand---------------------|<br>
+---------------------------------------------------------------------------------------------------
+
+
+<b>Inputs, outputs of the system</b>
+
+Inputs	Outputs
+1.    Pattern	1.  Displaying the amount of sand required
+2.    Sand	2.  Drawing 
+3.    Power 	3.  Movement of wheels
+
