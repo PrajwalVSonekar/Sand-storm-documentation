@@ -8,7 +8,7 @@ PERTINENT INFORMATION
 
 Sand and spray chalk machine
 
-https://i.ytimg.com/vi/JSsjwXvqVt4/maxresdefault.jpg
+<img>https://i.ytimg.com/vi/JSsjwXvqVt4/maxresdefault.jpg</img>
 
 Sand and spray chalk machine :
 The dosing device for the sand is completely reworked, the valve is now sitting down so the hardly still sand creek is there.
