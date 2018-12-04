@@ -73,7 +73,7 @@ Design mesmerizing sand drawings with your own magically magnetic zen garden
 
 <b>PROBLEM DEFINITION</b>
 
-<b>Questions</b> --------------------------------------------------------------<b>Answers</b><br>	
+<b>Questions</b> -----------------------------------------------------------------------<b>Answers</b><br>	
 1.What should be the  load  capacity on sand drawing robot?-----------------------Less than 300gm---------------Objective<br>
 2.Robot should be movable or drawing surface?-------------------------------------Movable-----------------------Constraint<br>
 3.How long should the robot be able to draw?--------------------------------------1-3 minutes-------------------Objective<br>
@@ -88,26 +88,26 @@ Design mesmerizing sand drawings with your own magically magnetic zen garden
 
 <b>Obtain the information through basic survey and customer interaction and arrive at requirements</b>
 
-<b>Observation and from Lit.Survey</b>	                                            <b>Requirements</b>
- 1. Based on the type of drawing                                       	Robot should be able to draw any type of pattern
-2.Duration of drawing	                                                  Robot should be able to draw 1-3 minutes continuously
-3.Estimated cost	                                                       The robot should be available within 5000Rs
-4.Volume of pouring sand	                                               Robot should be able to adjust the volume of pouring the sand
+<b>Observation and from Lit.Survey</b>------------------------------------------ <b>Requirements</b><br>
+ 1. Based on the type of drawing--------------------------------------Robot should be able to draw any type of pattern<br>
+2.Duration of drawing-------------------------------------------------Robot should be able to draw 1-3 minutes continuously<br>
+3.Estimated cost------------------------------------------------------The robot should be available within 5000Rs<br>
+4.Volume of pouring sand--------------------------------------------- Robot should be able to adjust the volume of pouring the sand<br>
 
 
 
  <b>Identify client’s objectives</b>
 Step 1: Prepare a list of design objectives
 	<b>Objectives</b>
-01	The load capacity of robot should be less than 300gm
-03	The duration of drawing should be more than 1 minutes
-04	The robot should be user friendly
-05	The cost should be less than 5000/-
-06	 The volume of sand that has to be poured should be adjustable
-07	The robot should be stable
+01-----The load capacity of robot should be less than 300gm<br>
+02-----The duration of drawing should be more than 1 minutes<br>
+04-----The robot should be user friendly<br>
+05-----The cost should be less than 5000/-<br>
+06----- The volume of sand that has to be poured should be adjustable<br>
+07-----The robot should be stable<br>
 
 
-Prioritize the identified designs chart
+<u>Prioritize the identified designs chart</u>
 
 Sl no	                            	Affordable         	User friendly	         Duration of work          Stable	
 1	         Affordable	                xxxx	                   0	                      0                   	0	            0
