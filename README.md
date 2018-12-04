@@ -67,5 +67,5 @@ Design mesmerizing sand drawings with your own magically magnetic zen garden
 Using the three knobs, make symmetrical mandala patterns or randomized doodles on command
 Choose ball based on how fine of a detail suits your aesthetic (larger ball makes thicker lines)
 Dimensions: 11 1/2" diameterWeight: 2 1/2 lbs.
-Includes Sandscript automatic sand drawing machine, 2 stainless steel balls, 1 package of sand, and AC power adapter
+<b>Includes Sandscript automatic sand drawing machine, 2 stainless steel balls, 1 package of sand, and AC power adapter</b>
 <l></l>
