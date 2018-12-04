@@ -73,7 +73,7 @@ Design mesmerizing sand drawings with your own magically magnetic zen garden
 
 <b>PROBLEM DEFINITION</b>
 
-<b>Questions</b>--------------------------------------------------------------- <b>Answers</b><br>	
+<b>Questions</b>                                                                  <b>Answers</b><br>	
 1.What should be the  load  capacity on sand drawing robot?---------------------Less than 300gm------------------Objective<br>
 2.Robot should be movable or drawing surface?------------------------------------- Movable-----------------------Constraint<br>
 3.How long should the robot be able to draw?--------------------------------------1-3 minutes---------------------Objective<br>
