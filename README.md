@@ -205,7 +205,23 @@ Functional Structure( System sub functions for each Usecase)<br>
 Glass box representation of the above system
 
 
------------------------------------------------------------------------------------|<br>
-|Display|--------------->|------>|Display pattern|---------------------------------|<br>
------------------------------------------------------------------------------------|<br>
-|Drawing the pattern---->|----->|Opening the valve|----->|Adjusting the thickness of the sand
+----------------------------------------------------------------------------------------|----------|<br>
+|Display|--------------->|------>|Display pattern|-------------------------------------------------|<br>
+-------------------------|-------------------------------------------------------------------------|<br>
+|Drawing the pattern---->|----->|Opening the valve|----->|Adjusting the thickness of the sand|-----|<br>
+-------------------------|---------------------------------------------|---------------------------|<br>
+-------------------------|-------------------------------|Co-ordinating the Movement|--------------|<br>
+-------------------------|-------------------------------------------------------------------------|<br>
+
+
+
+Morphological chart:
+
+
+|Function---------------|Mean1----------|Mean2----------|Mean3----------|Mean4-----------|
+|1.Input information----|Touch screen---|Keyboard-------|Voice command--|Gesture control-|
+|2. Control-------------|Remote---------|Joystick-------|Voice command--|Gesture control-|
+|3. Movement
+	Four Wheels	Chain and sprocket	Belt	Two Wheels
+4.Indication of finish of sand	LED	Alarm	Display	          _
+5. Valve	 Solenoid valve	Ball valve 	Silder crank valve	Screw valve 
