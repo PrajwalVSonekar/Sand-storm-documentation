@@ -73,16 +73,16 @@ Design mesmerizing sand drawings with your own magically magnetic zen garden
 
 <b>PROBLEM DEFINITION</b>
 
-<b>Questions</b>                                                                  <b>Answers</b><br>	
-1.What should be the  load  capacity on sand drawing robot?---------------------Less than 300gm------------------Objective<br>
-2.Robot should be movable or drawing surface?------------------------------------- Movable-----------------------Constraint<br>
-3.How long should the robot be able to draw?--------------------------------------1-3 minutes---------------------Objective<br>
-4.What should be the thickness of line drawn by robot?	                  Adjustable	                      Objective
-5.What should be the cost of robot?	                                     Less than 5000Rs	                Objective
-6.What should be the area that robot has to draw?	                       5 sq feet	                       Constraint
-7.Should it pour on ground or sketch in sand?	                           Pour	                            Constraint
-8.What should be the type of power supply?                              	Battery	                         Constraint
-9. What type of pattern should the robot draw?                          	Any type	                        Function
+<b>Questions</b> --------------------------------------------------------------<b>Answers</b><br>	
+1.What should be the  load  capacity on sand drawing robot?-----------------------Less than 300gm---------------Objective<br>
+2.Robot should be movable or drawing surface?-------------------------------------Movable-----------------------Constraint<br>
+3.How long should the robot be able to draw?--------------------------------------1-3 minutes-------------------Objective<br>
+4.What should be the thickness of line drawn by robot?----------------------------Adjustable--------------------Objective<br>
+5.What should be the cost of robot?-----------------------------------------------Less than 5000Rs--------------Objective<br>
+6.What should be the area that robot has to draw?-------------------------------- 5 sq feet-------------------- Constraint<br>
+7.Should it pour on ground or sketch in sand?-------------------------------------Pour------------------------- Constraint<br>
+8.What should be the type of power supply?----------------------------------------Battery------------------------Constraint<br>
+9. What type of pattern should the robot draw?------------------------------------Any type----------------------- Function<br>
 
 
 
