@@ -52,16 +52,16 @@ For the robot to work the team places four poles around a 10-meter square area t
 A servo motor is an electrical device which can push or rotate an object with great precision. If you want to rotate and object at some specific angles or distance, then you use servo motor. It is just made up of simple motor which run through servo mechanism.
 
 
-Present solution for the problem
+# Present solution for the problem
 
 https://www.thinkgeek.com/images/products/additional/large/jisj_sandscript_machine_pattern.jpg
 
-Sandscript - Automatic Sand Drawing Machines
+# Sandscript - Automatic Sand Drawing Machines
 
 This device uses magnets to let you control a ball with three dials, tracing patterns in the sand. You can make symmetrical mandala patterns or randomized doodles on command. Set it and let it go or make tiny adjustments continuously. Sandscript comes with two steel balls; make your selection based on what level of detail suits your design aesthetic. And when you're ready to start over, just shake it like an Etch a Sketch, and your ephemeral designs will disappear into a blank canvas of sand.
 
 
-Product Specifications
+# Product Specifications
 Sandscript - Automatic Sand Drawing Machine
 Design mesmerizing sand drawings with your own magically magnetic zen garden
 Using the three knobs, make symmetrical mandala patterns or randomized doodles on command
