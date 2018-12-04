@@ -3,6 +3,9 @@ NEED STATEMENT
 
 Sand art is becoming famous day by day. A robot manufacturing industry is looking forward to showcase their product in an upcoming sand art exhibition by exhibiting a  sand drawing robot.
 
+
+PERTINENT INFORMATION
+
 Sand and spray chalk machine
 
 https://i.ytimg.com/vi/JSsjwXvqVt4/maxresdefault.jpg
@@ -63,6 +66,6 @@ Sandscript - Automatic Sand Drawing Machine
 Design mesmerizing sand drawings with your own magically magnetic zen garden
 Using the three knobs, make symmetrical mandala patterns or randomized doodles on command
 Choose ball based on how fine of a detail suits your aesthetic (larger ball makes thicker lines)
-Dimensions: 11 1/2" diameter
-Weight: 2 1/2 lbs.
+Dimensions: 11 1/2" diameterWeight: 2 1/2 lbs.
 Includes Sandscript automatic sand drawing machine, 2 stainless steel balls, 1 package of sand, and AC power adapter
+<l></l>
