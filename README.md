@@ -181,12 +181,8 @@ Glass box representation of the above system
 
 Morphological chart:
 
+![screenshot 36](https://user-images.githubusercontent.com/42865638/49509633-eaf7bb00-f8ab-11e8-9b14-cc07bc50d5cf.png)
 
-|Function---------------|Mean1---------------|Mean2---------------|Mean3------------------|Mean4-----------|<br>
-|1.Input information----|Touch screen--------|Keyboard------------|Voice command----------|Gesture control-|<br>
-|2.Control--------------|Remote--------------|Joystick------------|Voice command----------|Gesture control-|<br>
-|3.Movement-------------|Wheels--------------|Chain and sprocket--|Belt-------------------|Two Wheels------|<br>	          _
-|4.Valve----------------|Solenoid Mechanism--|Servo mechanism ----|Silder crank Mechanism-|Screw Mechanism-|<br>
 
 
 <b>cConceptual models</b>
@@ -292,10 +288,14 @@ Circit Diagram
 
 # SPRINT 2
 
-subsystem 2: Movement of vessel
+subsystem 2: Movement of vessel,closing and opening of valve 
 
 1.on the top of the chasis .A steeper motor  and a dummy shaft is fixed on either side of the base and for the movement a pulley is attached on the top connected by a timming belt attached to the vessel and for less friction a slider wheels are been attached to the base 
 2.because of the movement of the stepper motor the pulley rotates due to which the timing belt moves the vessel and this causes the horizontal movement of the vessel
+3.because of servo motor attached to the bottom of the vessel the flow of the sand can be controlled because of the rotation of the flap of servo motor 
+
+
+
 
 
 
