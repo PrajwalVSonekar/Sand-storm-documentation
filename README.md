@@ -283,7 +283,10 @@ subsystem 2: Movement of vessel,closing and opening of valve
 
 1.on the top of the chasis .A steeper motor  and a dummy shaft is fixed on either side of the base and for the movement a pulley is attached on the top connected by a timming belt attached to the vessel and for less friction a slider wheels are been attached to the base 
 2.because of the movement of the stepper motor the pulley rotates due to which the timing belt moves the vessel and this causes the horizontal movement of the vessel
-3.because of servo motor attached to the bottom of the vessel the flow of the sand can be controlled because of the rotation of the flap of servo motor 
+3.because of servo motor attached to the bottom of the vessel the flow of the sand can be controlled because of the rotation of the flap of servo motor.<br>
+
+<b>Circuit Diaghram</b>
+
 
 
 3D model
