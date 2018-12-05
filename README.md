@@ -285,6 +285,25 @@ Concept 4
 
 
 
+
+
+<b>Pugh chart</b>
+
+![screenshot 19](https://user-images.githubusercontent.com/42865638/49497789-46678000-f88f-11e8-9186-435cfc983ac3.png)
+
+
+<b>Functional Structure</b>
+
+![screenshot 16](https://user-images.githubusercontent.com/42865638/49496936-259e2b00-f88d-11e8-9e94-41650cfa7e0b.png)
+
+
+<b>Component heirarchy</b>
+![screenshot 17](https://user-images.githubusercontent.com/42865638/49497614-d658fa00-f88e-11e8-8bf3-282b7fd3cbbd.png)
+
+<b> Geometric Layout</b>
+
+![screenshot 20](https://user-images.githubusercontent.com/42865638/49497970-a9f1ad80-f88f-11e8-8851-c4c7aec2b14d.png)
+
 # SPRINT 1
 
 subsystem 1: Movement of wheels
@@ -317,22 +336,5 @@ Bill of material
 14.Pulley-------------x2<br>
 15.Slider wheels------x4<br>
 
-
-<b>Pugh chart</b>
-
-![screenshot 19](https://user-images.githubusercontent.com/42865638/49497789-46678000-f88f-11e8-9186-435cfc983ac3.png)
-
-
-<b>Functional Structure</b>
-
-![screenshot 16](https://user-images.githubusercontent.com/42865638/49496936-259e2b00-f88d-11e8-9e94-41650cfa7e0b.png)
-
-
-<b>Component heirarchy</b>
-![screenshot 17](https://user-images.githubusercontent.com/42865638/49497614-d658fa00-f88e-11e8-8bf3-282b7fd3cbbd.png)
-
-<b> Geometric Layout</b>
-
-![screenshot 20](https://user-images.githubusercontent.com/42865638/49497970-a9f1ad80-f88f-11e8-8851-c4c7aec2b14d.png)
 
 
