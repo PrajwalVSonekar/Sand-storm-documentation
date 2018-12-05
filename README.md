@@ -287,6 +287,7 @@ subsystem 2: Movement of vessel,closing and opening of valve
 3.because of servo motor attached to the bottom of the vessel the flow of the sand can be controlled because of the rotation of the flap of servo motor.<br>
 
 <b>Circuit Diaghram</b>
+![xxarduinomega2560_servocontrol_connections1](https://user-images.githubusercontent.com/42865638/49528106-4f7d3f00-f8d9-11e8-8184-2d450d7e0221.png)
 
 
 
