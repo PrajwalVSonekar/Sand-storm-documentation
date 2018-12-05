@@ -274,6 +274,8 @@ subsystem 1: Movement of wheels
 2. Two Motors are fixed to holder which helps in the rotation of wheels when the motor is supplied by power. The motors are fixed in series to the back wheels.<br>
 3. Motor starts working when it receives the signals from the control unit. The signal for speed and directions of working of motor is given in control unit.<br>
 
+
+Circit Diagram
 ![b108b199-d703-403e-90fd-59070d382196](https://user-images.githubusercontent.com/42865638/49491615-f2eb3700-f87a-11e8-94f9-2194f7c9b3bb.jpg)
 
 <b>Flow chart</b>
@@ -281,10 +283,17 @@ subsystem 1: Movement of wheels
 ![screenshot 28](https://user-images.githubusercontent.com/42865638/49501713-85023800-f899-11e8-8ddb-cc04ef411999.png)
 
 
-3D Model
+<b>3D Model Sprint 1</b>
+
+![screenshot 32](https://user-images.githubusercontent.com/42865638/49502349-ed9de480-f89a-11e8-954c-08b27c314b5d.png)
 
 
+# SPRINT 2
 
+subsystem 2: Movement of vessel
+
+1.on the top of the chasis .A steeper motor  and a dummy shaft is fixed on either side of the base and for the movement a pulley is attached on the top connected by a timming belt attached to the vessel and for less friction a slider wheels are been attached to the base 
+2.because of the movement of the stepper motor the pulley rotates due to which the timing belt moves the vessel and this causes the horizontal movement of the vessel
 
 
 
