@@ -259,7 +259,8 @@ Concept 2
 Concept 3
 
 
-
+![img_20180930_194239](https://user-images.githubusercontent.com/42865638/49495053-c1c53380-f887-11e8-8598-42db83d2fea9.jpg)
+																	
 
 
 |Function------------|Selected mean---------|<br>
@@ -315,4 +316,11 @@ Bill of material
 13.Dummy Shaft--------x1<br>
 14.Pulley-------------x2<br>
 15.Slider wheels------x4<br>
+
+
+
+
+
+
+
 
