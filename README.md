@@ -105,12 +105,7 @@ Step 1: Prepare a list of design objectives<br>
 ![screenshot 23](https://user-images.githubusercontent.com/42865638/49498370-d22ddc00-f890-11e8-8bc3-30520e6b4818.png)
 
 
-Prioritize the identified designs chart
-Sl no------------------------Affordable----------User friendly----------Duration of work----------Stable<br>	
-1-----Affordable-------------xxxx----------------0-----------------------0-------------------------0-----------------0<br>
-2-----User friendlu----------1-------------------xxxx--------------------1-------------------------0-----------------2<br>
-3-----Duration of work-------1-------------------0-----------------------xxxx----------------------0-----------------1<br>
-4-----Stable-----------------1-------------------1-----------------------1-------------------------xxxx--------------3<br>
+![screenshot 24](https://user-images.githubusercontent.com/42865638/49498458-25079380-f891-11e8-8e59-840a89f9040c.png)
 
 
 Rank the objectives in order of decreasing value of importance and the list is <br> 
