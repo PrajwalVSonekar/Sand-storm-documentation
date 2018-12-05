@@ -234,6 +234,8 @@ Concept 4
 
 ![screenshot 19](https://user-images.githubusercontent.com/42865638/49497789-46678000-f88f-11e8-9186-435cfc983ac3.png)
 
+So the Concept selected is Concept 1
+
 
 <b>Functional Structure</b>
 
