@@ -14,7 +14,7 @@ To make sand art advanced a robot for sand art is build . It is a robot which ca
 
 </b>SAND AND SPRAY CHALK MACHINE</b>
 
-https://i.ytimg.com/vi/JSsjwXvqVt4/maxresdefault.jpg
+
 
 ![chalk](https://user-images.githubusercontent.com/42865638/49491812-a3f1d180-f87b-11e8-9e3b-faf76b802d49.jpg)
 
