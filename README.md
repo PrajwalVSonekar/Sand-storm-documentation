@@ -266,6 +266,10 @@ Concept 2
 
 Concept 3
 
+![img_20180930_194239](https://user-images.githubusercontent.com/42865638/49494433-a9ecb000-f885-11e8-8c5b-5d974d0a7462.jpg)
+
+
+
 |Function------------|Selected mean---------|<br>
 |1-------------------|Keyboard--------------|<br>
 |2-------------------|Voice command---------|<br>
@@ -275,6 +279,8 @@ Concept 3
 
 
 Concept 4
+
+
 
 |Function------------|Means----------------|<br>
 |1-------------------|Keyboard-------------|<br>
