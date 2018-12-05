@@ -299,7 +299,12 @@ subsystem 2: Movement of vessel,closing and opening of valve
 3.because of servo motor attached to the bottom of the vessel the flow of the sand can be controlled because of the rotation of the flap of servo motor 
 
 
+3D model
 
+![screenshot 29](https://user-images.githubusercontent.com/42865638/49510428-301cec80-f8ae-11e8-9a8f-c2a74c87bd5a.png)
+
+
+![screenshot 31](https://user-images.githubusercontent.com/42865638/49510475-5773b980-f8ae-11e8-99f1-a6768c8d9385.png)
 
 
 
