@@ -42,7 +42,10 @@ The robot is effectively a long bar that acts kind of like a printer, rolling ac
 
 <b>KINETIC SAND DRAWING TABLE</b>
 
-https://www.thinkgeek.com/images/products/additional/large/jisj_sandscript_machine_pattern.jpg
+
+
+![jisj_sandscript_machine](https://user-images.githubusercontent.com/42865638/49493801-71e46d80-f883-11e8-9fd4-74e218e43b12.jpg)
+
 
 Kinetic sand drawing table: A sand is a functional piece of art . it is a complex electromagnetical device within a coffee table that draws patterns in the sand.
 The table has a web based interface that allows a user to draw about 30 different types of patterns. Everything from spirals, snow flakes, text, clipart and mazes to fractals and strange attractors can be drawn . Everything is written in python making it easy to add new patterns. The software runs on raspberry Pi and Beaglebone  and generates G code which is then sent to a tiny G controller.
@@ -51,7 +54,7 @@ Under the table is a two motor robot that moves a magnet which draws a steel bal
  
  <b>BEACH BOT</b>
  
- http://tomodachi.us/cms/wp-content/uploads/ArticleDisneyBeachBot.jpg
+ 
  
  Beach bot:This cute little robot looks like a turtle with a big orange shell and it is designed to do something fun at the beach. The Beach bot is designed to draw large scale art in the sand as it rolls around under its own power. The robot was designed by a team from ETH Zurich and the Zurich division of Disney Research.
 The robot rolls around and draws in the sand using a rake attached under its body. The bot is able to control the pressure on that rake to make marks in the sand. The biggest challenge for the team was figuring out how to translate the pictures they want the robot to draw in the sand into something the robot could understand.
