@@ -237,6 +237,11 @@ Morphological chart:
 
 <b>cConceptual models</b>
 
+Concept 1
+
+![img_20180929_212106_hdr](https://user-images.githubusercontent.com/42865638/49494209-d2c07580-f884-11e8-8ed4-cae7aafec5c3.jpg)
+
+
 
 
 |Function--------------|Selected means--------|<br>
