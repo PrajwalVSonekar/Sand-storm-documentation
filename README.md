@@ -275,7 +275,7 @@ subsystem 1: Movement of wheels
 2. Two Motors are fixed to holder which helps in the rotation of wheels when the motor is supplied by power. The motors are fixed in series to the back wheels.<br>
 3. Motor starts working when it receives the signals from the control unit. The signal for speed and directions of working of motor is given in control unit.<br>
 
-blob:https://web.whatsapp.com/b108b199-d703-403e-90fd-59070d382196
+
 
 
 
