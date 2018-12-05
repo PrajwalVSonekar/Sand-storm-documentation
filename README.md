@@ -10,7 +10,7 @@ To make sand art advanced a robot for sand art is build . It is a robot which ca
 
 
 
-<b>PERTINENT INFORMATION</b>
+# PERTINENT INFORMATION
 
 </b>SAND AND SPRAY CHALK MACHINE</b>
 
@@ -70,16 +70,16 @@ A servo motor is an electrical device which can push or rotate an object with gr
 
 # Present solution for the problem
 
-https://www.thinkgeek.com/images/products/additional/large/jisj_sandscript_machine_pattern.jpg
 
-# Sandscript - Automatic Sand Drawing Machines
+<b>Sandscript - Automatic Sand Drawing Machines</b>
 
 ![jisj_sandscript_machine](https://user-images.githubusercontent.com/42865638/49493801-71e46d80-f883-11e8-9fd4-74e218e43b12.jpg)
 
 This device uses magnets to let you control a ball with three dials, tracing patterns in the sand. You can make symmetrical mandala patterns or randomized doodles on command. Set it and let it go or make tiny adjustments continuously. Sandscript comes with two steel balls; make your selection based on what level of detail suits your design aesthetic. And when you're ready to start over, just shake it like an Etch a Sketch, and your ephemeral designs will disappear into a blank canvas of sand.
 
 
-# Product Specifications
+<b> Product Specifications</b>
+
 Sandscript - Automatic Sand Drawing Machine<br>
 Design mesmerizing sand drawings with your own magically magnetic zen garden<br>
 Using the three knobs, make symmetrical mandala patterns or randomized doodles on command<br>
@@ -194,11 +194,6 @@ Concept 1
 
 
 
-|Function--------------|Selected means--------|<br>
-|1.--------------------|Bluetooth-------------|<br>
-|2.--------------------|Bluetoooth------------|<br>
-|3---------------------|Wheels----------------|<br>
-|4---------------------|Servo Mechanism-------|<br>
 
 
 Concept 2
@@ -208,11 +203,6 @@ Concept 2
 
 
 
-|Function-------------|Selected means--------|<br>
-|1--------------------|Touchscreen-----------|<br>
-|2--------------------|Gesture control-------|<br>
-|3--------------------|Chain and sprocket----|<br>
-|4--------------------|Crank slider valve----|<br>
 
 
 Concept 3
@@ -222,11 +212,6 @@ Concept 3
 																	
 
 
-|Function------------|Selected mean---------|<br>
-|1-------------------|Keyboard--------------|<br>
-|2-------------------|Voice command---------|<br>
-|3-------------------|Two wheels------------|<br>
-|4-------------------|Screw valve-----------|<br>
 
 
 
@@ -235,11 +220,6 @@ Concept 4
 ![img_20180929_211754_hdr](https://user-images.githubusercontent.com/42865638/49494541-f6d08680-f885-11e8-9af4-a43028793c55.jpg)
 
 
-|Function------------|Means----------------|<br>
-|1-------------------|Keyboard-------------|<br>
-|2-------------------|Joystick-------------|<br>
-|3-------------------|Belt-----------------|<br>
-|4-------------------|Ball valve-----------|<br>
 
 
 
