@@ -157,6 +157,9 @@ Functional Structure( System sub functions for each Usecase)<br>
 
 <b>Inputs, outputs of the system</b>
 
+![screenshot 26](https://user-images.githubusercontent.com/42865638/49498713-fa6a0a80-f891-11e8-95e2-efb5fc220aa6.png)
+
+
 
 
 
