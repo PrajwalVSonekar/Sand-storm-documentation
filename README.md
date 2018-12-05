@@ -68,13 +68,13 @@ This device uses magnets to let you control a ball with three dials, tracing pat
 
 
 # Product Specifications
-Sandscript - Automatic Sand Drawing Machine
-Design mesmerizing sand drawings with your own magically magnetic zen garden
-Using the three knobs, make symmetrical mandala patterns or randomized doodles on command
-Choose ball based on how fine of a detail suits your aesthetic (larger ball makes thicker lines)
-Dimensions: 11 1/2" diameterWeight: 2 1/2 lbs.
-<b>Includes Sandscript automatic sand drawing machine, 2 stainless steel balls, 1 package of sand, and AC power adapter</b>
-<l></l>
+Sandscript - Automatic Sand Drawing Machine<br>
+Design mesmerizing sand drawings with your own magically magnetic zen garden<br>
+Using the three knobs, make symmetrical mandala patterns or randomized doodles on command<br>
+Choose ball based on how fine of a detail suits your aesthetic (larger ball makes thicker lines)<br>
+Dimensions: 11 1/2" diameterWeight: 2 1/2 lbs.<br>
+Includes Sandscript automatic sand drawing machine, 2 stainless steel balls, 1 package of sand, and AC power adapter<br>
+
 
 
 <b>PROBLEM DEFINITION</b>
@@ -218,10 +218,14 @@ Glass box representation of the above system
 Morphological chart:
 
 
-|Function---------------|Mean1----------|Mean2----------|Mean3----------|Mean4-----------|
-|1.Input information----|Touch screen---|Keyboard-------|Voice command--|Gesture control-|
-|2. Control-------------|Remote---------|Joystick-------|Voice command--|Gesture control-|
-|3. Movement
-	Four Wheels	Chain and sprocket	Belt	Two Wheels
-4.Indication of finish of sand	LED	Alarm	Display	          _
-5. Valve	 Solenoid valve	Ball valve 	Silder crank valve	Screw valve 
+|Function---------------|Mean1---------------|Mean2---------------|Mean3------------------|Mean4-----------|<br>
+|1.Input information----|Touch screen--------|Keyboard------------|Voice command----------|Gesture control-|<br>
+|2.Control--------------|Remote--------------|Joystick------------|Voice command----------|Gesture control-|<br>
+|3.Movement-------------|Wheels--------------|Chain and sprocket--|Belt-------------------|Two Wheels------|<br>	          _
+|4.Valve----------------|Solenoid Mechanism--|Servo mechanism ----|Silder crank Mechanism-|Screw Mechanism-|<br>
+
+
+<b>cConceptual models</b>
+
+
+
