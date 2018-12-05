@@ -284,6 +284,10 @@ Circit Diagram
 ![screenshot 32](https://user-images.githubusercontent.com/42865638/49503070-94cf4b80-f89c-11e8-911f-7db9ea20f120.png)
 
 
+![screenshot 33](https://user-images.githubusercontent.com/42865638/49510320-d7e5ea80-f8ad-11e8-9174-04d763397cc3.png)
+
+
+
 
 
 # SPRINT 2
