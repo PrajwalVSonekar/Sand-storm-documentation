@@ -101,13 +101,8 @@ Design mesmerizing sand drawings with your own magically magnetic zen garden<br>
 
  <b>Identify client’s objectives</b><br>
 Step 1: Prepare a list of design objectives<br>
-	<b>Objectives</b>
-01-----The load capacity of robot should be less than 300gm<br>
-02-----The duration of drawing should be more than 20-30 minutes<br>
-04-----The robot should be user friendly<br>
-05-----The cost should be less than 5000/-<br>
-06----- The volume of sand that has to be poured should be adjustable<br>
-07-----The robot should be stable<br>
+
+![screenshot 23](https://user-images.githubusercontent.com/42865638/49498370-d22ddc00-f890-11e8-8bc3-30520e6b4818.png)
 
 
 Prioritize the identified designs chart
