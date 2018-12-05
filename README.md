@@ -260,6 +260,8 @@ subsystem 1: Movement of wheels
 
 Circit Diagram
 
+
+
 ![b108b199-d703-403e-90fd-59070d382196](https://user-images.githubusercontent.com/42865638/49491615-f2eb3700-f87a-11e8-94f9-2194f7c9b3bb.jpg)
 
 <b>Flow chart</b>
@@ -287,6 +289,10 @@ subsystem 2: Movement of vessel,closing and opening of valve
 3.because of servo motor attached to the bottom of the vessel the flow of the sand can be controlled because of the rotation of the flap of servo motor.<br>
 
 <b>Circuit Diaghram</b>
+
+![68446a326e4a159aab7994722f5ec701](https://user-images.githubusercontent.com/42865638/49529640-7be68a80-f8dc-11e8-9eb7-e59d4723127f.png)
+
+
 ![xxarduinomega2560_servocontrol_connections1](https://user-images.githubusercontent.com/42865638/49528106-4f7d3f00-f8d9-11e8-8184-2d450d7e0221.png)
 
 
