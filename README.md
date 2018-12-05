@@ -97,13 +97,7 @@ Design mesmerizing sand drawings with your own magically magnetic zen garden<br>
 
 <b>Obtain the information through basic survey and customer interaction and arrive at requirements</b><br>
 
-<b>Observation and from Lit.Survey</b>------------------------------------------ <b>Requirements</b><br>
- 1. Based on the type of drawing--------------------------------------Robot should be able to draw any type of pattern<br>
-2.Duration of drawing-------------------------------------------------Robot should be able to draw 20-30 minutes continuously<br>
-3.Estimated cost------------------------------------------------------The robot should be available within 5000Rs<br>
-4.Volume of pouring sand--------------------------------------------- Robot should be able to adjust the volume of pouring the sand<br>
-
-
+![screenshot 22](https://user-images.githubusercontent.com/42865638/49498296-94c94e80-f890-11e8-87dc-071248b3519c.png)
 
  <b>Identify client’s objectives</b><br>
 Step 1: Prepare a list of design objectives<br>
