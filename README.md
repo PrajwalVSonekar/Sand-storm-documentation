@@ -191,6 +191,9 @@ Concept 1
 
 ![img_20180929_212106_hdr](https://user-images.githubusercontent.com/42865638/49494209-d2c07580-f884-11e8-8ed4-cae7aafec5c3.jpg)
 
+![screenshot 37](https://user-images.githubusercontent.com/42865638/49526969-ebf21200-f8d6-11e8-9318-d1adce862e9f.png)
+
+
 
 
 
@@ -201,7 +204,7 @@ Concept 2
 ![img_20180929_212901_hdr](https://user-images.githubusercontent.com/42865638/49511070-1c728580-f8b0-11e8-8184-f50041e902a6.jpg)
 
 
-
+![screenshot 38](https://user-images.githubusercontent.com/42865638/49526977-ef859900-f8d6-11e8-94d4-a5d4a7bcebc0.png)
 
 
 
@@ -210,7 +213,7 @@ Concept 3
 
 ![img_20180930_194239](https://user-images.githubusercontent.com/42865638/49495053-c1c53380-f887-11e8-8598-42db83d2fea9.jpg)
 																	
-
+![screenshot 39](https://user-images.githubusercontent.com/42865638/49526985-f3192000-f8d6-11e8-8259-ef0ee63e1525.png)
 
 
 
@@ -220,6 +223,7 @@ Concept 4
 ![img_20180929_211754_hdr](https://user-images.githubusercontent.com/42865638/49494541-f6d08680-f885-11e8-9af4-a43028793c55.jpg)
 
 
+![screenshot 41](https://user-images.githubusercontent.com/42865638/49526990-f6141080-f8d6-11e8-84e3-aaf734933fe1.png)
 
 
 
