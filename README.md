@@ -91,16 +91,7 @@ Design mesmerizing sand drawings with your own magically magnetic zen garden<br>
 
 <b>PROBLEM DEFINITION</b><br>
 
-<b>Questions</b> ----------------------------------------------------------------------------<b>Answers</b><br>	
-1.What should be the  load  capacity on sand drawing robot?-----------------------Less than 300gm---------------Objective<br>
-2.Robot should be movable or drawing surface?-------------------------------------Movable-----------------------Constraint<br>
-3.How long should the robot be able to draw?--------------------------------------20-30 minutes-------------------Objective<br>
-4.What should be the thickness of line drawn by robot?----------------------------Adjustable--------------------Objective<br>
-5.What should be the cost of robot?-----------------------------------------------Less than 5000Rs--------------Objective<br>
-6.What should be the area that robot has to draw?-------------------------------- 5 sq feet-------------------- Constraint<br>
-7.Should it pour on ground or sketch in sand?-------------------------------------Pour------------------------- Constraint<br>
-8.What should be the type of power supply?----------------------------------------Battery------------------------Constraint<br>
-9. What type of pattern should the robot draw?------------------------------------Any type----------------------- Function<br>
+![screenshot 21](https://user-images.githubusercontent.com/42865638/49498191-3d2ae300-f890-11e8-97cc-1a32d277e3f1.png)
 
 
 
