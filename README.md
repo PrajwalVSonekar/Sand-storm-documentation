@@ -228,4 +228,38 @@ Morphological chart:
 <b>cConceptual models</b>
 
 
-[What is this](IMG_20180929_211754_HDR.png)
+
+|Function--------------|Selected means--------|<br>
+|1.--------------------|Bluetooth-------------|<br>
+|2.--------------------|Bluetoooth------------|<br>
+|3---------------------|Wheels----------------|<br>
+|4---------------------|Servo Mechanism-------|<br>
+
+
+Concept 2
+
+
+|Function-------------|Selected means--------|<br>
+|1--------------------|Touchscreen-----------|<br>
+|2--------------------|Gesture control-------|<br>
+|3--------------------|Chain and sprocket----|<br>
+|4--------------------|Crank slider valve----|<br>
+
+
+Concept 3
+
+|Function------------|Selected mean---------|<br>
+|1-------------------|Keyboard--------------|<br>
+|2-------------------|Voice command---------|<br>
+|3-------------------|Two wheels------------|<br>
+|4-------------------|Screw valve-----------|<br>
+
+
+
+Concept 4
+
+|Function------------|Means----------------|
+|1-------------------|Keyboard-------------|
+|2-------------------|Joystick-------------|
+|3-------------------|Belt-----------------|
+|4-------------------|Ball valve-----------|
