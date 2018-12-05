@@ -77,9 +77,9 @@ Design mesmerizing sand drawings with your own magically magnetic zen garden<br>
 
 
 
-<b>PROBLEM DEFINITION</b>
+<b>PROBLEM DEFINITION</b><br>
 
-<b>Questions</b> -----------------------------------------------------------------------<b>Answers</b><br>	
+<b>Questions</b> ----------------------------------------------------------------------------<b>Answers</b><br>	
 1.What should be the  load  capacity on sand drawing robot?-----------------------Less than 300gm---------------Objective<br>
 2.Robot should be movable or drawing surface?-------------------------------------Movable-----------------------Constraint<br>
 3.How long should the robot be able to draw?--------------------------------------20-30 minutes-------------------Objective<br>
@@ -92,7 +92,7 @@ Design mesmerizing sand drawings with your own magically magnetic zen garden<br>
 
 
 
-<b>Obtain the information through basic survey and customer interaction and arrive at requirements</b>
+<b>Obtain the information through basic survey and customer interaction and arrive at requirements</b><br>
 
 <b>Observation and from Lit.Survey</b>------------------------------------------ <b>Requirements</b><br>
  1. Based on the type of drawing--------------------------------------Robot should be able to draw any type of pattern<br>
@@ -102,8 +102,8 @@ Design mesmerizing sand drawings with your own magically magnetic zen garden<br>
 
 
 
- <b>Identify client’s objectives</b>
-Step 1: Prepare a list of design objectives
+ <b>Identify client’s objectives</b><br>
+Step 1: Prepare a list of design objectives<br>
 	<b>Objectives</b>
 01-----The load capacity of robot should be less than 300gm<br>
 02-----The duration of drawing should be more than 20-30 minutes<br>
@@ -121,7 +121,7 @@ Sl no------------------------Affordable----------User friendly----------Duration
 4-----Stable-----------------1-------------------1-----------------------1-------------------------xxxx--------------3<br>
 
 
-Rank the objectives in order of decreasing value of importance and the list is  
+Rank the objectives in order of decreasing value of importance and the list is <br> 
 1. Stable<br>
 2.User friendly<br>
 3 Duration of work<br>
@@ -130,7 +130,7 @@ Rank the objectives in order of decreasing value of importance and the list is
 
 Based on the information gathered through interaction with client, initial survey and completing phase 1.1 the problem definition is formulated as follows
 
-Problem definition version1.1
+Problem definition version1.1<br>
 <i>?“The robot should be user friendly and stable while drawing and should be capable of drawing more than 20-30 minutes and its cost should be less than rs5000 ”</i>
 
 
@@ -141,15 +141,15 @@ Problem definition version1.1
 3.The power supply should be through batteries<br>
 
 
-Problem definition version1.2
+Problem definition version1.2<br>
 <i>The robot should be able to draw on area of 5sq.feet, it should draw by pouring sand and it should work on battery.</i>
 
 
- Establish functions
-1.The robot should be able draw any kind of patterns
+ Establish functions<br>
+1.The robot should be able draw any kind of patterns<br>
 
 
-<b>PROBLEM DEFINITION</b> version 1.3
+<b>PROBLEM DEFINITION</b> version 1.3<br>
 The Robot Should be Portable,User  friendly,easy to handle and available at affordable price.It should draw patterns on flat surfaces and draw on atleast 5sq.feet area.Bot should be able to hold atleast 300gm of sand and work for atleast 3 hours on rechargable battery.<br>
 	
 
@@ -196,7 +196,7 @@ Functional Structure( System sub functions for each Usecase)<br>
 -----------------------------------------------------------------------------<br>
 |Pattern|---------------------->-------------------------------------->|Drawing|<br>
 |------------------------------------------------------------------------------<br>
-|Electric power|--------------->-|<b>SYSTEM<b>|----------------------------->|Movement|<br>
+|Electric power|--------------->-|<b>SYSTEM/<b>|----------------------------->|Movement|<br>
 |-------------------------------------------------------------------------------<br>
 |Sand|------------------------->-------------------------------------->|Dispalying the amount of sand required|<br>
 
@@ -274,6 +274,8 @@ subsystem 1: Movement of wheels
 1. Chassis is used as a base, which is connected to four wheels that helps in movement. Chassis   of 13  inches  length and 7 inches width is used. Each wheel of 6cm diameter and 2cm thickness is taken.<br>
 2. Two Motors are fixed to holder which helps in the rotation of wheels when the motor is supplied by power. The motors are fixed in series to the back wheels.<br>
 3. Motor starts working when it receives the signals from the control unit. The signal for speed and directions of working of motor is given in control unit.<br>
+
+blob:https://web.whatsapp.com/b108b199-d703-403e-90fd-59070d382196
 
 
 
