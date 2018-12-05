@@ -54,7 +54,8 @@ Under the table is a two motor robot that moves a magnet which draws a steel bal
  
  <b>BEACH BOT</b>
  
- 
+ ![beachbot-820x420](https://user-images.githubusercontent.com/42865638/49493861-ab1cdd80-f883-11e8-8b28-400cfea9c081.jpg)
+
  
  Beach bot:This cute little robot looks like a turtle with a big orange shell and it is designed to do something fun at the beach. The Beach bot is designed to draw large scale art in the sand as it rolls around under its own power. The robot was designed by a team from ETH Zurich and the Zurich division of Disney Research.
 The robot rolls around and draws in the sand using a rake attached under its body. The bot is able to control the pressure on that rake to make marks in the sand. The biggest challenge for the team was figuring out how to translate the pictures they want the robot to draw in the sand into something the robot could understand.
@@ -72,6 +73,8 @@ A servo motor is an electrical device which can push or rotate an object with gr
 https://www.thinkgeek.com/images/products/additional/large/jisj_sandscript_machine_pattern.jpg
 
 # Sandscript - Automatic Sand Drawing Machines
+
+![jisj_sandscript_machine](https://user-images.githubusercontent.com/42865638/49493801-71e46d80-f883-11e8-9fd4-74e218e43b12.jpg)
 
 This device uses magnets to let you control a ball with three dials, tracing patterns in the sand. You can make symmetrical mandala patterns or randomized doodles on command. Set it and let it go or make tiny adjustments continuously. Sandscript comes with two steel balls; make your selection based on what level of detail suits your design aesthetic. And when you're ready to start over, just shake it like an Etch a Sketch, and your ephemeral designs will disappear into a blank canvas of sand.
 
