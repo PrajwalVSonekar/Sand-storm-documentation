@@ -280,6 +280,7 @@ Concept 3
 
 Concept 4
 
+![img_20180929_211754_hdr](https://user-images.githubusercontent.com/42865638/49494541-f6d08680-f885-11e8-9af4-a43028793c55.jpg)
 
 
 |Function------------|Means----------------|<br>
