@@ -258,8 +258,40 @@ Concept 3
 
 Concept 4
 
-|Function------------|Means----------------|
-|1-------------------|Keyboard-------------|
-|2-------------------|Joystick-------------|
-|3-------------------|Belt-----------------|
-|4-------------------|Ball valve-----------|
+|Function------------|Means----------------|<br>
+|1-------------------|Keyboard-------------|<br>
+|2-------------------|Joystick-------------|<br>
+|3-------------------|Belt-----------------|<br>
+|4-------------------|Ball valve-----------|<br>
+
+
+
+
+# SPRINT 1
+
+subsystem 1: Movement of wheels
+
+1. Chassis is used as a base, which is connected to four wheels that helps in movement. Chassis   of 13  inches  length and 7 inches width is used. Each wheel of 6cm diameter and 2cm thickness is taken.<br>
+2. Two Motors are fixed to holder which helps in the rotation of wheels when the motor is supplied by power. The motors are fixed in series to the back wheels.<br>
+3. Motor starts working when it receives the signals from the control unit. The signal for speed and directions of working of motor is given in control unit.<br>
+
+
+
+Bill of material
+
+1.chasis--------------x1<br>
+2.wheels--------------x4<br>
+3.60rpm DC Motor------x4<br>
+4.2 channel relay-----x2<br>
+5.Arduino Mega--------x1<br>
+6.breadboard----------x1<br>
+7.Stepper motor-------x1<br>
+8.timming Belt--------x1<br>
+9.Servo motor---------x1<br>
+10.L298N drive--------x1<br>
+11.Vessel-------------x1<br>
+12.12V Battery--------x1<br>
+13.Dummy Shaft--------x1<br>
+14.Pulley-------------x2<br>
+15.Slider wheels------x4<br>
+
