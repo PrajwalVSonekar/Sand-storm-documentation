@@ -331,5 +331,8 @@ Bill of material
 <b>Component heirarchy</b>
 ![screenshot 17](https://user-images.githubusercontent.com/42865638/49497614-d658fa00-f88e-11e8-8bf3-282b7fd3cbbd.png)
 
+<b> Geometric Layout</b>
+
+![screenshot 20](https://user-images.githubusercontent.com/42865638/49497970-a9f1ad80-f88f-11e8-8851-c4c7aec2b14d.png)
 
 
