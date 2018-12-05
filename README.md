@@ -149,7 +149,7 @@ Problem definition version1.2
 1.The robot should be able draw any kind of patterns
 
 
-<b>PROBLEM DEFINITION version 1.3
+<b>PROBLEM DEFINITION</b> version 1.3
 The Robot Should be Portable,User  friendly,easy to handle and available at affordable price.It should draw patterns on flat surfaces and draw on atleast 5sq.feet area.Bot should be able to hold atleast 300gm of sand and work for atleast 3 hours on rechargable battery.<br>
 	
 
@@ -228,4 +228,4 @@ Morphological chart:
 <b>cConceptual models</b>
 
 
-
+[What is this](IMG_20180929_211754_HDR.png)
