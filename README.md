@@ -1,4 +1,4 @@
-# Sand-storm-documentation
+# SAND STORM DOCUMENTATION
 # NEED STATEMENT
 
 Sand art is becoming famous day by day. A robot manufacturing industry is looking forward to showcase their product in an upcoming sand art exhibition by exhibiting a  sand drawing robot.
