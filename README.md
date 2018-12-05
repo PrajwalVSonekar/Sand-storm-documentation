@@ -31,7 +31,10 @@ The machine runs for about 3h.
 
 <b>SAND DRAWING ROBOT</b>
 
-https://theawesomer.com/photos/2018/07/sand_drawing_robot_t.jpg
+
+
+![1_j5ufldgcet9sjmoquaqtlw 1](https://user-images.githubusercontent.com/42865638/49493729-3184ef80-f883-11e8-9bda-96c7ec0f0904.png)
+
 
 Sand drawing robot: The device takes the form of a gantry-style system that you might be familiar with from your CNC router or 3D printer. One axis is pulled back and forth with a belt drive and motor setup. The other axis, though, is different than a traditional CNC machine, as it moves across the beach using four wheels. Instead of spindle or extruder, the sliding portion simply has a hobby servo that pokes into the ground when needed, intermittently rending the sand.
 
