@@ -285,6 +285,9 @@ Circit Diagram
 
 <b>3D Model Sprint 1</b>
 
+![screenshot 32](https://user-images.githubusercontent.com/42865638/49503070-94cf4b80-f89c-11e8-911f-7db9ea20f120.png)
+
+
 
 
 # SPRINT 2
