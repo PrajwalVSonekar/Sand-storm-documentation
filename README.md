@@ -318,6 +318,9 @@ Bill of material
 15.Slider wheels------x4<br>
 
 
+<b>Pugh chart</b>
+
+![screenshot 19](https://user-images.githubusercontent.com/42865638/49497789-46678000-f88f-11e8-9186-435cfc983ac3.png)
 
 
 <b>Functional Structure</b>
