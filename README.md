@@ -253,6 +253,9 @@ Concept 1
 
 Concept 2
 
+![img_20180929_213253_hdr](https://user-images.githubusercontent.com/42865638/49494295-32b71c00-f885-11e8-9a97-c8cf509c1d42.jpg)
+
+
 
 |Function-------------|Selected means--------|<br>
 |1--------------------|Touchscreen-----------|<br>
