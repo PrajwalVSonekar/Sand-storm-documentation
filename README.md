@@ -320,8 +320,13 @@ Bill of material
 
 
 
-
+<b>Functional Structure</b>
 
 ![screenshot 16](https://user-images.githubusercontent.com/42865638/49496936-259e2b00-f88d-11e8-9e94-41650cfa7e0b.png)
+
+
+<b>Component heirarchy</b>
+![screenshot 17](https://user-images.githubusercontent.com/42865638/49497614-d658fa00-f88e-11e8-8bf3-282b7fd3cbbd.png)
+
 
 
