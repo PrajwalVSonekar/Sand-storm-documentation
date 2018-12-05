@@ -203,7 +203,8 @@ Concept 1
 
 Concept 2
 
-![img_20180929_213253_hdr](https://user-images.githubusercontent.com/42865638/49494295-32b71c00-f885-11e8-9a97-c8cf509c1d42.jpg)
+![img_20180929_212901_hdr](https://user-images.githubusercontent.com/42865638/49511070-1c728580-f8b0-11e8-8184-f50041e902a6.jpg)
+
 
 
 
