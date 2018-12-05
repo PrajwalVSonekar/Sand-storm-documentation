@@ -169,11 +169,6 @@ The Robot Should be Portable,User  friendly,easy to handle and available at affo
 
 Use case diagram to represent the above system.
 
-------------------------------------------------------------------------------------<br>
-user----------------------|------1.Entering the pattern---|-------------------------Machine<br>
---------------------------|------2.Control----------------|-------------------------<br>	
---------------------------|------3.Loading sand-----------|--------------------------<br>
--------------------------------------------------------------------------------------<br>
 
 
 Functional Structure( System sub functions for each Usecase)<br>
