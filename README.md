@@ -313,21 +313,7 @@ subsystem 2: Movement of vessel,closing and opening of valve
 
 Bill of material
 
-1.chasis--------------x1<br>
-2.wheels--------------x4<br>
-3.60rpm DC Motor------x4<br>
-4.2 channel relay-----x2<br>
-5.Arduino Mega--------x1<br>
-6.breadboard----------x1<br>
-7.Stepper motor-------x1<br>
-8.timming Belt--------x1<br>
-9.Servo motor---------x1<br>
-10.L298N drive--------x1<br>
-11.Vessel-------------x1<br>
-12.12V Battery--------x1<br>
-13.Dummy Shaft--------x1<br>
-14.Pulley-------------x2<br>
-15.Slider wheels------x4<br>
+![screenshot 48](https://user-images.githubusercontent.com/42865638/49569746-cb6b9b80-f95a-11e8-9d20-4f0a613fa5b1.png)
 
 
 
