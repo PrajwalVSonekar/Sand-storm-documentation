@@ -181,7 +181,8 @@ Glass box representation of the above system
 
 Morphological chart:
 
-![screenshot 36](https://user-images.githubusercontent.com/42865638/49509633-eaf7bb00-f8ab-11e8-9b14-cc07bc50d5cf.png)
+![screenshot 46](https://user-images.githubusercontent.com/42865638/49566496-cb669e00-f950-11e8-9e3b-0c225e6d9ac2.png)
+
 
 
 
