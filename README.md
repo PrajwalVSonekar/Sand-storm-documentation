@@ -243,7 +243,8 @@ So the Concept selected is Concept 1
 
 
 <b>Component heirarchy</b>
-![screenshot 17](https://user-images.githubusercontent.com/42865638/49497614-d658fa00-f88e-11e8-8bf3-282b7fd3cbbd.png)
+![screenshot 42](https://user-images.githubusercontent.com/42865638/49564679-6019cd80-f94a-11e8-80c4-6e3a4bc057f2.png)
+
 
 <b> Geometric Layout</b>
 
