@@ -172,7 +172,7 @@ Functional Structure( System sub functions for each Usecase)<br>
 
 Glass box representation of the above system
 
-![screenshot 14](https://user-images.githubusercontent.com/42865638/49494842-056b6d80-f887-11e8-96b9-ac7c89f8dbe7.png)
+![screenshot 45](https://user-images.githubusercontent.com/42865638/49566215-e8e73800-f94f-11e8-9361-95efaf3574dd.png)
 
 
 
