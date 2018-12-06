@@ -250,7 +250,8 @@ So the Concept selected is Concept 1
 
 <b> Geometric Layout</b>
 
-![screenshot 43](https://user-images.githubusercontent.com/42865638/49565139-2ea20180-f94c-11e8-8584-adfccb9e50ac.png)
+![screenshot 43](https://user-images.githubusercontent.com/42865638/49569039-cd345f80-f958-11e8-92dd-a812adb2744c.png)
+
 
 
 # SPRINT 1
